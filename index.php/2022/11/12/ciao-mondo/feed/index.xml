@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Commenti a: Ciao mondo!	</title>
-	<atom:link href="/index.php/2022/11/12/ciao-mondo/feed/" rel="self" type="application/rss+xml" />
-	<link>/index.php/2022/11/12/ciao-mondo/</link>
+	<atom:link href="https:/index.php/2022/11/12/ciao-mondo/feed/" rel="self" type="application/rss+xml" />
+	<link>https:/index.php/2022/11/12/ciao-mondo/</link>
 	<description>Stazione di ricarica veloce per la tua auto elettrica</description>
 	<lastBuildDate>Sat, 12 Nov 2022 09:26:16 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,11 +20,11 @@
 	<item>
 		<title>
 		Di: Un commentatore di WordPress		</title>
-		<link>/index.php/2022/11/12/ciao-mondo/#comment-1</link>
+		<link>https:/index.php/2022/11/12/ciao-mondo/#comment-1</link>
 
 		<dc:creator><![CDATA[Un commentatore di WordPress]]></dc:creator>
 		<pubDate>Sat, 12 Nov 2022 09:26:16 +0000</pubDate>
-		<guid isPermaLink="false">/?p=1#comment-1</guid>
+		<guid isPermaLink="false">https:/?p=1#comment-1</guid>
 
 					<description><![CDATA[Ciao, questo è un commento.
 Per iniziare a moderare, modificare ed eliminare commenti, vai alla schermata dei commenti nella bacheca.
